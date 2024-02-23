@@ -20,8 +20,10 @@
 
 <details>
    <summary>:zap: GitHub Stats</summary>
-   <img align="left" alt="iamvishalaggarwal's GitHub Stats" src="https://github-readme-stats-iamvishalaggarwal.vercel.app/api? username=iamvishalaggarwal&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-   <br/><br/><br/><br/><br/><br/><br/>
+   <br/>
+   <img align="left" alt="iamvishalaggarwal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamvishalaggarwal&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+   <img align="left" alt="iamvishalaggarwal's Top Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvishalaggarwal&theme=dark&layout=compact&align=right&title_color=ff652f&bg_color=09131B&text_color=ffffff&border_color=0c1a25&show_icons=true&hide_border=false" />
+   <br/><br/><br/><br/><br/><br/><br/><br/>
 </details>
 
 <div style="clear:both;"></div>
