@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm Vishal Aggarwal <img src="https://raw.githubusercontent.com/iamvishalaggarwal/iamvishalaggarwal/main/wave.gif" width="30px" height="30px" /> </h2>
-<h4 align="center">🚀 Full Stack Developer | 2+ Years of Experience | Django | React.js | Javascript  </h4>
+<h4 align="center">🚀 Full Stack Developer | 3+ Years of Experience | Django | React.js | Javascript  </h4>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+2%2B+Years+Experience;React+%7C+Django+%7C+JavaScript+%7C+ES6%2B+%7C+DOM+Mastery;Responsive+Design+with+HTML5+%26+CSS3;Reusable+Components+%7C+Hooks;Scalable+CI%2FCD+Deployments;Passionate+about+Clean+%26+Performant+Code&color=FACC15&background=00000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+3%2B+Years+Experience;React+%7C+Django+%7C+JavaScript+%7C+ES6%2B+%7C+DOM+Mastery;Responsive+Design+with+HTML5+%26+CSS3;Reusable+Components+%7C+Hooks;Scalable+CI%2FCD+Deployments;Passionate+about+Clean+%26+Performant+Code&color=FACC15&background=00000000" alt="Typing SVG" />
 </p>
 
 ---
