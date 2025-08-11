@@ -10,7 +10,7 @@
 - 🔭 Currently working on the [SERS](https://iot.sers.net.au) WebApp.
 - 👯 Seeking collaboration on Application & Web Development projects.
 - 💬 Ask me about ReactJs, Django, Databases, Deployment, or any tech-related queries.
-- 📃 Know about my experiences - [Resume](https://drive.google.com/file/d/13R8oAY6kEwvmSQeqxJhEXvgSfdsemwoA/view?usp=sharing)
+- 📃 Know about my experiences - [Resume](https://drive.google.com/file/d/11jjWlloWAg0REK9F7Mj3AqMPvM3UcixH/view?usp=sharing)
 - 🧠 Lifelong learner who enjoys exploring new technologies, building tools, and refining front-end & back-end performance.
 - 📫 Reach me at:
 
